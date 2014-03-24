@@ -1,5 +1,3 @@
 module02
 
 server IP: 198.61.209.150
-
-zgCVWo32amTV
